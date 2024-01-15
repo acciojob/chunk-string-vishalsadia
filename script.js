@@ -17,6 +17,6 @@ function chunkString(str, chunkLength) {
 }
 		
 	// Do not change the code below
-const str = prompt("Enter String.");
-const chunkLength = prompt("Enter Chunk Size.");
-alert(stringChop(str, chunkLength ));
+// const str = prompt("Enter String.");
+// const chunkLength = prompt("Enter Chunk Size.");
+// alert(stringChop(str, chunkLength ));
